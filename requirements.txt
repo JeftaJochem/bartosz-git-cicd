@@ -1,1 +1,1 @@
-pytest==7.3.0s
+pytest==7.3.0
